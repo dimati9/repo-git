@@ -1,3 +1,9 @@
-print("Hello world")
-print("Hello guys")
-print("Hello")
+print("Hello world");
+print("Hello guys");
+print("Hello");
+print("Hello my little friend");
+print("Hello my sweet girl");
+print("Hello world");
+print("Hello guys");
+print("Hello");
+
